@@ -5,6 +5,8 @@ workflow:
     - if: '$CI_COMMIT_BRANCH'
 
 pages:
+  script:
+   - echo "ci needs at least one script command"
   artifacts:
     paths:
       - "*.*"
