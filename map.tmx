@@ -39,6 +39,9 @@
  <tileset firstgid="4965" name="worldExit" tilewidth="32" tileheight="32" tilecount="4" columns="2">
   <image source="assets/worldExit.png" width="64" height="64"/>
  </tileset>
+ <tileset firstgid="4969" name="ZRPGBeach" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="assets/ZRPGBeach.png" width="1024" height="1024"/>
+ </tileset>
  <layer id="5" name="floor" width="100" height="100">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
