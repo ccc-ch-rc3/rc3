@@ -6,12 +6,10 @@ workflow:
 
 pages:
   script:
-   - echo "ci needs at least one script command"
+    - rm .gitlab-ci.yml
+    - rm -rf .git/
   artifacts:
     paths:
       - "*"
-    exclude:
-      - ".*"
-      - ".git/"
   rules:
     - if: '$CI_COMMIT_BRANCH == "deploy"'
