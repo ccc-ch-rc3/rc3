@@ -7,6 +7,6 @@ workflow:
 pages:
   artifacts:
     paths:
-      - *.*
+      - "*.*"
   rules:
     - if: '$CI_COMMIT_BRANCH == "deploy"'
