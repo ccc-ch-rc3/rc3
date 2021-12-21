@@ -9,8 +9,9 @@ pages:
    - echo "ci needs at least one script command"
   artifacts:
     paths:
-      - "*.*"
+      - "*"
     exclude:
-      - ".*.*"
+      - ".*"
+      - ".git/*"
   rules:
     - if: '$CI_COMMIT_BRANCH == "deploy"'
