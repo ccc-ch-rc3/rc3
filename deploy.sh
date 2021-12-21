@@ -4,7 +4,7 @@ set -eu -o pipefail
 set -x
 
 mkdir dist
-tiled --export-map json bern.tmx dist/main.json
+tiled --export-map json map.tmx dist/main.json
 sed -i 's/..\\\/assets\\\///g' dist/main.json
 find . -name \*.png -exec cp {} dist/ \;
 cp COPYRIGHT dist/
