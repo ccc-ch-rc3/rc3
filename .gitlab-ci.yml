@@ -10,5 +10,7 @@ pages:
   artifacts:
     paths:
       - "*.*"
+    exclude:
+      - ".*.*"
   rules:
     - if: '$CI_COMMIT_BRANCH == "deploy"'
