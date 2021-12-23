@@ -143,7 +143,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/assets\/build_atlas.png",
+         "image":"build_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -156,7 +156,7 @@
         {
          "columns":2,
          "firstgid":1025,
-         "image":"..\/assets\/chair.png",
+         "image":"chair.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -169,7 +169,7 @@
         {
          "columns":20,
          "firstgid":1031,
-         "image":"..\/assets\/Chaostreffbern.png",
+         "image":"Chaostreffbern.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -201,7 +201,7 @@
         {
          "columns":7,
          "firstgid":1431,
-         "image":"..\/assets\/couch.png",
+         "image":"couch.png",
          "imageheight":160,
          "imagewidth":224,
          "margin":0,
@@ -214,7 +214,7 @@
         {
          "columns":32,
          "firstgid":1466,
-         "image":"..\/assets\/draemmli.png",
+         "image":"draemmli.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -227,7 +227,7 @@
         {
          "columns":5,
          "firstgid":2490,
-         "image":"..\/assets\/gleise.png",
+         "image":"gleise.png",
          "imageheight":64,
          "imagewidth":160,
          "margin":0,
@@ -240,7 +240,7 @@
         {
          "columns":16,
          "firstgid":2500,
-         "image":"..\/assets\/Interiors_free_32x32.png",
+         "image":"Interiors_free_32x32.png",
          "imageheight":1472,
          "imagewidth":512,
          "margin":0,
@@ -253,7 +253,7 @@
         {
          "columns":13,
          "firstgid":3236,
-         "image":"..\/assets\/logo.png",
+         "image":"logo.png",
          "imageheight":282,
          "imagewidth":436,
          "margin":0,
@@ -266,7 +266,7 @@
         {
          "columns":32,
          "firstgid":3340,
-         "image":"..\/assets\/obj_misk_atlas.png",
+         "image":"obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -279,7 +279,7 @@
         {
          "columns":15,
          "firstgid":4364,
-         "image":"..\/assets\/pride.png",
+         "image":"pride.png",
          "imageheight":352,
          "imagewidth":480,
          "margin":0,
@@ -292,7 +292,7 @@
         {
          "columns":2,
          "firstgid":4529,
-         "image":"..\/assets\/tastaturstern.png",
+         "image":"tastaturstern.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -305,7 +305,7 @@
         {
          "columns":16,
          "firstgid":4533,
-         "image":"..\/assets\/upholstery.png",
+         "image":"upholstery.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -318,7 +318,7 @@
         {
          "columns":2,
          "firstgid":5045,
-         "image":"..\/assets\/worldExit.png",
+         "image":"worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -331,7 +331,7 @@
         {
          "columns":32,
          "firstgid":5049,
-         "image":"..\/assets\/ZRPGBeach.png",
+         "image":"ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -344,7 +344,7 @@
         {
          "columns":8,
          "firstgid":6073,
-         "image":"..\/assets\/tileset_bosque_expansion.png",
+         "image":"tileset_bosque_expansion.png",
          "imageheight":6000,
          "imagewidth":256,
          "margin":0,
@@ -357,7 +357,7 @@
         {
          "columns":16,
          "firstgid":7569,
-         "image":"..\/assets\/interior.png",
+         "image":"interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -370,7 +370,7 @@
         {
          "columns":22,
          "firstgid":7825,
-         "image":"..\/assets\/heaven_realm_tileset.png",
+         "image":"heaven_realm_tileset.png",
          "imageheight":720,
          "imagewidth":720,
          "margin":0,
@@ -383,7 +383,7 @@
         {
          "columns":16,
          "firstgid":8309,
-         "image":"..\/assets\/Coredump.png",
+         "image":"Coredump.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -396,7 +396,7 @@
         {
          "columns":16,
          "firstgid":8565,
-         "image":"..\/assets\/Bathroom.png",
+         "image":"Bathroom.png",
          "imageheight":704,
          "imagewidth":528,
          "margin":0,
@@ -409,7 +409,7 @@
         {
          "columns":20,
          "firstgid":8917,
-         "image":"..\/assets\/Graffiti.png",
+         "image":"Graffiti.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -422,7 +422,7 @@
         {
          "columns":16,
          "firstgid":9317,
-         "image":"..\/assets\/environment_tileset_gray.png",
+         "image":"environment_tileset_gray.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -435,7 +435,7 @@
         {
          "columns":8,
          "firstgid":9573,
-         "image":"..\/assets\/floor_tiles.png",
+         "image":"floor_tiles.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -454,7 +454,7 @@
         {
          "columns":32,
          "firstgid":9605,
-         "image":"..\/assets\/floors.png",
+         "image":"floors.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
