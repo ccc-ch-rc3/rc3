@@ -8,7 +8,6 @@ tiled --export-map json map.tmx dist/main.json
 sed -i 's/..\\\/assets\\\///g' dist/main.json
 find . -name \*.png -exec cp {} dist/ \;
 cp COPYRIGHT dist/
-cp .gitlab-ci.yml dist/
 
 git add dist && git commit -m "Update"
 git push origin --delete deploy
