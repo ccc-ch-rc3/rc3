@@ -57,6 +57,9 @@
  <tileset firstgid="8485" name="Bathroom" tilewidth="32" tileheight="32" tilecount="352" columns="16">
   <image source="assets/Bathroom.png" width="528" height="704"/>
  </tileset>
+ <tileset firstgid="8837" name="Graffiti" tilewidth="32" tileheight="32" tilecount="400" columns="20">
+  <image source="assets/Graffiti.png" width="640" height="640"/>
+ </tileset>
  <layer id="5" name="floor" width="100" height="100">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
