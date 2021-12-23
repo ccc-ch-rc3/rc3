@@ -69,6 +69,9 @@
   </properties>
   <image source="assets/floor_tiles.png" width="256" height="128"/>
  </tileset>
+ <tileset firstgid="9525" name="floors" tilewidth="32" tileheight="32" tilecount="2048" columns="32">
+  <image source="assets/floors.png" width="1024" height="2048"/>
+ </tileset>
  <layer id="5" name="floor" width="100" height="100">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
