@@ -13,8 +13,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install tiled
-        run: apk add --update tiled --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing/
+      - name: Install tiled and other dependencies
+        run: >
+          apk add --update git &&
+          apk add tiled --repository=http://dl-cdn.alpinelinux.org/alpine/edge/testing/
       - name: Build tiles
         run: mkdir dist && tiled -platform offscreen --export-map json map.tmx dist/main.json
 
