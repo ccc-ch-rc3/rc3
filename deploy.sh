@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Old script, replaced by GH actions in .github/workflows/
+# Kept here as reference in case we move away from GitHub.
+
 set -eu -o pipefail
 set -x
 
