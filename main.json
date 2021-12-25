@@ -509,19 +509,15 @@
          "imagewidth":528,
          "margin":0,
          "name":"Bathroom",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Modified Bathroom Tiles by BlackedIRL: https:\/\/www.deviantart.com\/blackedirl\/art\/Bathroom-Tiles-776492428"
+                }],
          "spacing":0,
          "tilecount":352,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"Modified Bathroom Tiles by BlackedIRL: https:\/\/www.deviantart.com\/blackedirl\/art\/Bathroom-Tiles-776492428"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
