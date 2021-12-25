@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
  <tileset firstgid="1" name="build_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <properties>
+   <property name="tilesetCopyright" value="Check atlas_attribution.txt in the repo"/>
+  </properties>
   <image source="assets/build_atlas.png" width="1024" height="1024"/>
  </tileset>
  <tileset firstgid="1025" name="chair" tilewidth="32" tileheight="32" tilecount="6" columns="2">
+  <properties>
+   <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
+  </properties>
   <image source="assets/chair.png" width="64" height="96"/>
  </tileset>
  <tileset firstgid="1031" name="Chaostreffbern" tilewidth="32" tileheight="32" tilecount="400" columns="20">
+  <properties>
+   <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
+  </properties>
   <image source="assets/Chaostreffbern.png" width="640" height="640"/>
   <tile id="120">
    <properties>
@@ -20,57 +29,113 @@
   </tile>
  </tileset>
  <tileset firstgid="1431" name="couch" tilewidth="32" tileheight="32" tilecount="35" columns="7">
+  <properties>
+   <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
+  </properties>
   <image source="assets/couch.png" width="224" height="160"/>
  </tileset>
  <tileset firstgid="1466" name="draemmli" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <properties>
+   <property name="tilesetCopyright" value="CC-BY-SA 4.0 by draemmli (Roland Rytz)"/>
+  </properties>
   <image source="assets/draemmli.png" width="1024" height="1024"/>
  </tileset>
  <tileset firstgid="2490" name="gleise" tilewidth="32" tileheight="32" tilecount="10" columns="5">
+  <properties>
+   <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
+  </properties>
   <image source="assets/gleise.png" width="160" height="64"/>
  </tileset>
  <tileset firstgid="2500" name="Interiors_free_32x32" tilewidth="32" tileheight="32" tilecount="736" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="Interiors_free_32x32.png - https://limezu.itch.io/moderninteriors"/>
+  </properties>
   <image source="assets/Interiors_free_32x32.png" width="512" height="1472"/>
  </tileset>
  <tileset firstgid="3236" name="logo" tilewidth="32" tileheight="32" tilecount="104" columns="13">
+  <properties>
+   <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
+  </properties>
   <image source="assets/logo.png" width="436" height="282"/>
  </tileset>
  <tileset firstgid="3340" name="obj_misk_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <properties>
+   <property name="tilesetCopyright" value="Check atlas_attribution.txt in the repo"/>
+  </properties>
   <image source="assets/obj_misk_atlas.png" width="1024" height="1024"/>
  </tileset>
  <tileset firstgid="4364" name="pride" tilewidth="32" tileheight="32" tilecount="165" columns="15">
+  <properties>
+   <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
+  </properties>
   <image source="assets/pride.png" width="480" height="352"/>
  </tileset>
  <tileset firstgid="4529" name="tastaturstern" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <properties>
+   <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
+  </properties>
   <image source="assets/tastaturstern.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="4533" name="upholstery" tilewidth="32" tileheight="32" tilecount="512" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="CC-BY 4.0 https://opengameart.org/content/lpc-upholstery"/>
+  </properties>
   <image source="assets/upholstery.png" width="512" height="1024"/>
  </tileset>
  <tileset firstgid="5045" name="worldExit" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <properties>
+   <property name="tilesetCopyright" value="By rc3"/>
+  </properties>
   <image source="assets/worldExit.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="5049" name="ZRPGBeach" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <properties>
+   <property name="tilesetCopyright" value="CC-BY-SA 3.0 &quot;[LPC] Beach/Desert&quot; by bluecarrot16, Guillaume Lecollinet, Johann Charlot, cynicmusic, Surt, vk, Yar, Buch, Jetrel, Zachariah Husiar aka (Zabin), Hyptosis, William Thompson, Frode Lindeijer aka (Modanung), Leonard Pabin, and Lanea Zimmerman aka (Sharm)."/>
+  </properties>
   <image source="assets/ZRPGBeach.png" width="1024" height="1024"/>
  </tileset>
  <tileset firstgid="6073" name="tileset_bosque_expansion" tilewidth="32" tileheight="32" tilecount="1496" columns="8">
+  <properties>
+   <property name="tilesetCopyright" value="By mataraelfay https://www.deviantart.com/mataraelfay/art/Tileset-bosque-expansion-rtp-RPG-Maker-XP-325243427"/>
+  </properties>
   <image source="assets/tileset_bosque_expansion.png" width="256" height="6000"/>
  </tileset>
  <tileset firstgid="7569" name="interior" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="Interiors_free_32x32.png - https://limezu.itch.io/moderninteriors"/>
+  </properties>
   <image source="assets/interior.png" width="512" height="512"/>
  </tileset>
  <tileset firstgid="7825" name="heaven_realm_tileset" tilewidth="32" tileheight="32" tilecount="484" columns="22">
+  <properties>
+   <property name="tilesetCopyright" value="Heaven Realm Tileset (XY-Styled) by Phyromatical https://www.deviantart.com/phyromatical/art/Heaven-Realm-Tileset-XY-Styled-558661270"/>
+  </properties>
   <image source="assets/heaven_realm_tileset.png" width="720" height="720"/>
  </tileset>
  <tileset firstgid="8309" name="Coredump" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="Made by Coredump"/>
+  </properties>
   <image source="assets/Coredump.png" width="512" height="512"/>
  </tileset>
  <tileset firstgid="8565" name="Bathroom" tilewidth="32" tileheight="32" tilecount="352" columns="16">
   <image source="assets/Bathroom.png" width="528" height="704"/>
+  <tile id="0">
+   <properties>
+    <property name="tilesetCopyright" value="Modified Bathroom Tiles by BlackedIRL: https://www.deviantart.com/blackedirl/art/Bathroom-Tiles-776492428"/>
+   </properties>
+  </tile>
  </tileset>
  <tileset firstgid="8917" name="Graffiti" tilewidth="32" tileheight="32" tilecount="400" columns="20">
+  <properties>
+   <property name="tilesetCopyright" value="Diverse Bilder von openclipart.org CC"/>
+  </properties>
   <image source="assets/Graffiti.png" width="640" height="640"/>
  </tileset>
  <tileset firstgid="9317" name="environment_tileset_gray" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="GPLv2 Environment Tileset by ReidYaro https://www.deviantart.com/reidyaro/art/Environment-Tileset-294238835"/>
+  </properties>
   <image source="assets/environment_tileset_gray.png" width="512" height="512"/>
  </tileset>
  <tileset firstgid="9573" name="floor_tiles" tilewidth="32" tileheight="32" tilecount="32" columns="8">
@@ -80,6 +145,9 @@
   <image source="assets/floor_tiles.png" width="256" height="128"/>
  </tileset>
  <tileset firstgid="9605" name="floors" tilewidth="32" tileheight="32" tilecount="2048" columns="32">
+  <properties>
+   <property name="tilesetCopyright" value="Unknown Copyright"/>
+  </properties>
   <image source="assets/floors.png" width="1024" height="2048"/>
  </tileset>
  <layer id="11" name="start" width="100" height="100">
