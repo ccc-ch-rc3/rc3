@@ -148,6 +148,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"build_atlas",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Check atlas_attribution.txt in the repo"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -161,6 +167,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"chair",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WTFPL by Chaostreffbern"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -174,6 +186,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Chaostreffbern",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WTFPL by Chaostreffbern"
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -206,6 +224,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"couch",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WTFPL by Chaostreffbern"
+                }],
          "spacing":0,
          "tilecount":35,
          "tileheight":32,
@@ -219,6 +243,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"draemmli",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0 by draemmli (Roland Rytz)"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -232,6 +262,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"gleise",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WTFPL by Chaostreffbern"
+                }],
          "spacing":0,
          "tilecount":10,
          "tileheight":32,
@@ -245,6 +281,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Interiors_free_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Interiors_free_32x32.png - https:\/\/limezu.itch.io\/moderninteriors"
+                }],
          "spacing":0,
          "tilecount":736,
          "tileheight":32,
@@ -258,6 +300,12 @@
          "imagewidth":436,
          "margin":0,
          "name":"logo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WTFPL by Chaostreffbern"
+                }],
          "spacing":0,
          "tilecount":104,
          "tileheight":32,
@@ -271,6 +319,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"obj_misk_atlas",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Check atlas_attribution.txt in the repo"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -284,6 +338,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"pride",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WTFPL by Chaostreffbern"
+                }],
          "spacing":0,
          "tilecount":165,
          "tileheight":32,
@@ -297,6 +357,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"tastaturstern",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WTFPL by Chaostreffbern"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -310,6 +376,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"upholstery",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY 4.0 https:\/\/opengameart.org\/content\/lpc-upholstery"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -323,6 +395,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"By rc3"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -336,6 +414,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"ZRPGBeach",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 3.0 \"[LPC] Beach\/Desert\" by bluecarrot16, Guillaume Lecollinet, Johann Charlot, cynicmusic, Surt, vk, Yar, Buch, Jetrel, Zachariah Husiar aka (Zabin), Hyptosis, William Thompson, Frode Lindeijer aka (Modanung), Leonard Pabin, and Lanea Zimmerman aka (Sharm)."
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -349,6 +433,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"tileset_bosque_expansion",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"By mataraelfay https:\/\/www.deviantart.com\/mataraelfay\/art\/Tileset-bosque-expansion-rtp-RPG-Maker-XP-325243427"
+                }],
          "spacing":0,
          "tilecount":1496,
          "tileheight":32,
@@ -362,6 +452,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"interior",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Interiors_free_32x32.png - https:\/\/limezu.itch.io\/moderninteriors"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -375,6 +471,12 @@
          "imagewidth":720,
          "margin":0,
          "name":"heaven_realm_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Heaven Realm Tileset (XY-Styled) by Phyromatical https:\/\/www.deviantart.com\/phyromatical\/art\/Heaven-Realm-Tileset-XY-Styled-558661270"
+                }],
          "spacing":0,
          "tilecount":484,
          "tileheight":32,
@@ -388,6 +490,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Coredump",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Made by Coredump"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -404,6 +512,16 @@
          "spacing":0,
          "tilecount":352,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Modified Bathroom Tiles by BlackedIRL: https:\/\/www.deviantart.com\/blackedirl\/art\/Bathroom-Tiles-776492428"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -414,6 +532,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Graffiti",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Diverse Bilder von openclipart.org CC"
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -427,6 +551,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"environment_tileset_gray",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"GPLv2 Environment Tileset by ReidYaro https:\/\/www.deviantart.com\/reidyaro\/art\/Environment-Tileset-294238835"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -459,6 +589,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"floors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Unknown Copyright"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
