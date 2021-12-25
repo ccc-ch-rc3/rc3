@@ -119,12 +119,10 @@
   <image source="assets/Coredump.png" width="512" height="512"/>
  </tileset>
  <tileset firstgid="8565" name="Bathroom" tilewidth="32" tileheight="32" tilecount="352" columns="16">
+  <properties>
+   <property name="tilesetCopyright" value="Modified Bathroom Tiles by BlackedIRL: https://www.deviantart.com/blackedirl/art/Bathroom-Tiles-776492428"/>
+  </properties>
   <image source="assets/Bathroom.png" width="528" height="704"/>
-  <tile id="0">
-   <properties>
-    <property name="tilesetCopyright" value="Modified Bathroom Tiles by BlackedIRL: https://www.deviantart.com/blackedirl/art/Bathroom-Tiles-776492428"/>
-   </properties>
-  </tile>
  </tileset>
  <tileset firstgid="8917" name="Graffiti" tilewidth="32" tileheight="32" tilecount="400" columns="20">
   <properties>
