@@ -286,7 +286,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":false,
