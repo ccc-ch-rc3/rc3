@@ -126,7 +126,7 @@
          "height":100,
          "id":16,
          "name":"chuchichaestli",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"audioLoop",
@@ -149,7 +149,7 @@
                  "value":"assets\/wikipedia-chuchichaestli.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -159,7 +159,7 @@
          "height":100,
          "id":13,
          "name":"websiteCoredump",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -172,7 +172,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -182,7 +182,7 @@
          "height":100,
          "id":14,
          "name":"websiteCccCh",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -195,7 +195,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -205,7 +205,7 @@
          "height":100,
          "id":12,
          "name":"jitsiTeppicheEingang",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -218,7 +218,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -228,7 +228,7 @@
          "height":100,
          "id":15,
          "name":"jitsiTeppichCoredump",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -241,7 +241,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -251,9 +251,9 @@
          "height":100,
          "id":10,
          "name":"collision",
-         "opacity":0.5,
+         "opacity":0,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -263,7 +263,7 @@
          "height":100,
          "id":11,
          "name":"start",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"startLayer",
@@ -271,7 +271,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -281,7 +281,7 @@
          "height":100,
          "id":18,
          "name":"exitLobby",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"exitUrl",
@@ -289,7 +289,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -931,6 +931,16 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
