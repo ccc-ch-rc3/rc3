@@ -146,7 +146,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"assets\/wikipedia-chuchichaestli.mp3"
+                 "value":"wikipedia-chuchichaestli.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
