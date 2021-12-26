@@ -1360,7 +1360,7 @@
   <properties>
    <property name="audioLoop" type="bool" value="true"/>
    <property name="mapCopyright" value="CC BY-SA Wikipedia"/>
-   <property name="playAudio" value="wikipedia-chuchichaestli.mp3"/>
+   <property name="playAudio" value="assets/wikipedia-chuchichaestli.mp3"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

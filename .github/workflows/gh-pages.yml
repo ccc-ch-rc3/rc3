@@ -22,7 +22,8 @@ jobs:
           mkdir dist &&
           tiled -platform offscreen --export-map json map.tmx dist/main.json &&
           sed -i 's/..\\\/assets\\\///g' dist/main.json &&
-          find . -name \*.png -exec cp {} dist/ \;
+          find . -name \*.png -exec cp {} dist/ \; &&
+          find . -name \*.mp3 -exec cp {} dist/ \;
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
