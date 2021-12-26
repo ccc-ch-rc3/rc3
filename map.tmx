@@ -1359,6 +1359,7 @@
  <layer id="16" name="chuchichaestli" width="100" height="100">
   <properties>
    <property name="audioLoop" type="bool" value="true"/>
+   <property name="audioVolume" type="float" value="0.8"/>
    <property name="mapCopyright" value="CC BY-SA Wikipedia"/>
    <property name="playAudio" value="assets/wikipedia-chuchichaestli.mp3"/>
   </properties>
