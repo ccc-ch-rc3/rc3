@@ -403,23 +403,23 @@
          "name":"badgeChuchich\u00e4stli",
          "objects":[
                 {
-                 "height":57,
+                 "height":40.625,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Iq0tpUlwheXfeedZnjlHTjwcLhxhEM3hNZluAeVUOhW6g7C2Bv"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":50.6667,
-                 "x":1751.67,
-                 "y":2010
+                 "width":39.1667,
+                 "x":1755.8,
+                 "y":2011.88
                 }],
-         "opacity":0,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"Iq0tpUlwheXfeedZnjlHTjwcLhxhEM3hNZluAeVUOhW6g7C2Bv "
-                }],
+         "opacity":0.91,
          "type":"objectgroup",
          "visible":true,
          "x":0,
