@@ -17,11 +17,6 @@
    <property name="tilesetCopyright" value="WTFPL by Chaostreffbern"/>
   </properties>
   <image source="assets/Chaostreffbern.png" width="640" height="640"/>
-  <tile id="120">
-   <properties>
-    <property name="startLayer" type="bool" value="true"/>
-   </properties>
-  </tile>
   <tile id="140">
    <properties>
     <property name="collides" type="bool" value="true"/>
