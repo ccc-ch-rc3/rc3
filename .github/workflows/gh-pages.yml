@@ -24,6 +24,7 @@ jobs:
           cp *.json dist/ &&
           sed -i 's/\.\.\\\/assets\\\///g' dist/*.json &&
           sed -i 's/assets\\\///g' dist/*.json &&
+          sed -i 's/assets\///g' dist/*.json &&
           find . -name \*.png -exec cp {} dist/ \; &&
           find . -name \*.mp3 -exec cp {} dist/ \;
 
@@ -32,3 +33,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+
+          
+          
+s/assets\///g
