@@ -489,15 +489,6 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":120,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":140,
                  "properties":[
                         {
